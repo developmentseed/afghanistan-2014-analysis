@@ -1,0 +1,241 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.4/mapbox.css' rel='stylesheet' />
+    <link href='style.css' rel='stylesheet' />
+</head>
+<body>
+  <div class='header'>
+    <img class='header-img' src='images/ballotboxheader.jpg' />
+  </div>
+
+  <div class='main'>
+  <h1>What happened in the Afghanistan Elections?</h1>
+  <div class='author'>July 17,2014 | Drew Bollinger & Ian Schuler</div>
+<p>On Sunday, the two men running for President of Afghanistan--Dr. Abdullah and Dr. Ashraf Ghani--agreed to a full audit of recent runoff elections, temporarily addressing a growing political crisis stemming from a lack of public confidence in the election results announced by the IEC last week.</p><br>
+<p>Concern over election fraud is warranted. Previous presidential elections in 2009 were characterized by blatant ballot box stuffing that clearly impacted the outcome. In 2014, the story is more complicated. Election fraud occured using somewhat more sophisticated tactics that require greater scrutiny. Our analysis of the results at all 22,399 polling stations suggests that this was a close election. A full audit is indeed necessary to determine the will of the people.</p>
+
+<br>
+<h3>Who voted?</h3>
+<p>One area of controversy is the overall turnout. In April 6,645,384 Afghans voted in presidential and provincial council elections, defying threats of Taliban violence to set a record turnout. The presidential runoff saw an incredible jump in turnout. Nearly 1.3 million more ballots (7,947,527) were cast in June polls.
+</p><br>
+<p>
+But that doesn't fully reflect the shift in turnout as many areas actually saw a decrease in total votes. Almost 45% of polling centers had a decrease of nearly a million votes from the runoff (~950k) while the polling centers which had increased turnout saw an average increase of 680 voters per polling center. These polling stations contributed an additional 2,282,726 votes in comparison with the first round. These new votes were responsible for a significant swing in the outcome, in which Ashraf Ghani went from trailing Abdullah by nearly one million votes in the preliminary elections to leading by one million votes in the runoff elections.
+</p><br>
+<p>
+Who are these 2.3 million new voters? Certainly there were areas that saw legitimate increases in voter turnout. There are also reports that Ashraf Ghani made deals with tribal and religious leaders that gave them strong incentives to drive voters to the polls. Undoubtedly there was also widespread vote fraud.
+</p>
+<br>
+<h3>Identifying Fraud</h3>
+<p>
+  We examine the degree and impact of potential election fraud by comparing the results to the population and by looking for statistical anomalies in the results.
+</p><br>
+<h3>Comparisons to population</h3>
+<p>
+According to Afghanistan's Central Statistics Office, there are 3,400 people in Warmamy district. Nationally, more than half of Afghans are under voting age. So anything approaching 1,700 votes from Warmamy district would be extraordinary and yet the IEC reports over 23,000 votes from that district.
+</p><br>
+<p>
+Twenty-five districts reported more votes than the estimated population. These districts are in the provinces of Paktika, Paktya, Khost, Nooristan, Kunar, Kandahar, Panjsher, and Logar--areas that voted heavily for Ashraf Ghani. An additional 46 districts reported more that 60% of residents voted, well over the expected voting age population.
+</p>
+<div id='map' class='map'></div>
+<div class='my-legend'>
+<div class='legend-title'>Voter Turnout</div>
+<div class='legend-scale'>
+  <ul class='legend-labels'>
+    <li><span class='legend-1'></span>&#60;60%</li>
+    <li><span class='legend-2'></span>60-70%</li>
+    <li><span class='legend-3'></span>70-80%</li>
+    <li><span class='legend-4'></span>80-90%</li>
+    <li><span class='legend-5'></span>90-100%</li>
+    <li><span class='legend-6'></span>100-110%</li>
+    <li><span class='legend-7'></span>>110%</li>
+  </ul>
+</div>
+</div><br><br><br>
+<p>
+Districts with significant increases from April turnout are much more likely to have runoff turnout numbers greater than the population. More than 500,000 votes came from districts with more votes than people and 1.85 million votes came from districts where more than 60% of the population voted.</p>
+<br>
+<p>
+To analyze the overall impact of excessive turnout we utilized the technique of election fingerprinting. From the paper, <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3478593/">"Statistical detection of systematic election irregularities"</a>:
+<blockquote>"Election fingerprints are two-dimensional histograms of the number of units for a given voter turnout (x axis) and the percentage of votes (y axis) for the winning party (or candidate)"</blockquote>
+</p>
+<p>
+Here are some examples from other elections:
+</p>
+<img class ='postimg' src='images/fingerprintexample.png' alt='various countries election fingerprints' />
+<em>Fig. 1 from <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3478593/">"Statistical detection of systematic election irregularities"</a></em><br><br>
+<p>
+Because Afghanistan voters aren't assigned to a particular polling station we can't produce a detailed fingerprint at the polling station level. We can still produce a rough fingerprint by looking at the data at the district level. To calculate voter turnout, we assumed that vote totals above 60% of the district population represented 100% turnout and scaled accordingly.
+</p><br>
+<p>
+Here is the election fingerprint for Afghanistan 2014 showing voter turnout (votes/population) along the x-axis, % of votes for Ashraf Ghani along the y-axis, and colors closer to red indicating more districts reporting those results.
+</p>
+<img class ='postimg fp' src='images/afghanistanfp.png' alt='Afghanistan election fingerprint' />
+<p>
+Even though it's low resolution, there is a visible correlation between high turnout areas and votes for Ashraf Ghani.
+</p>
+<br>
+
+<h4>Statistical anomalies in vote distributions</h4>
+<p>
+Nika District in Paktika province provides a stark example of the statistical anomalies present in this election. Here are the results from all twelve polling centers in Nika District: </p>
+<br>
+<table>
+  <tr>
+    <th>Ashraf Ghani</th>
+    <td>2400</td>
+    <td>1800</td>
+    <td>1800</td>
+    <td>1800</td>
+    <td>3000</td>
+    <td>1800</td>
+    <td>1800</td>
+    <td>1200</td>
+    <td>1189</td>
+    <td>2400</td>
+    <td>1699</td>
+    <td>1800</td>
+  </tr>
+  <tr>
+    <th>Abdullah</th>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>11</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</table>
+<br>
+<p>
+Not only does Abdullah receive zero votes at most centers, the vote totals for Ashraf Ghani are almost all multiples of 600, the amount issued to each polling station. In Nika province, almost every ballot was cast and nearly all for Ashraf Ghani.
+</p><br>
+<p>
+Abnormal distributions of vote counts can provide insight into identifying fraudulent provincial results. Here are the vote count distributions for all polling stations in Kabul, Nangarhar, and Herat (the biggest three provinces) as a baseline:
+</p>
+<br>
+<div id='viz2' class='viz'></div>
+<div id='viz3' class='viz'></div>
+<div id='viz4' class='viz'></div>
+<br>
+<p>
+There are also density functions shown as overlays to allow for easier comparisons. There are several provinces that have distributions which are very different from the rest of the country: very few small vote counts and most polling stations using all or nearly all of the 600 ballots.
+</p><br>
+<p>
+Here are the density functions for each province with Khost, Kunar, Logar, Paktika, Paktya, and Wardak highlighted.
+</p>
+<div id='viz' class='viz'>
+<div class='info'>
+  Province: <span id='province'></span><br>
+  Abdullah Votes: <span id='abdullah-votes'></span><br>
+  Ghani Votes: <span id='ghani-votes'></span>
+  </div>
+</div>
+
+<br>
+<h3>Fabricated vote totals</h3>
+<p>
+In large numbers, the last two digits of vote counts should be relatively evenly distributed. Graphing the last two digits of every vote total submitted by the 22,399 polling stations shows a significant number of polling stations with vote totals ending in 00 or 50. Here is the distribution at the national level:
+</p>
+<br>
+<div id='viz5' class='viz'></div>
+<br>
+<p>
+We also observe this effect at the provincial level. In Nooristan province, there were 18 polling centers (of a total 137) where both candidates had a vote count which was a multiple of fifty. We should expect only three under an even distributions. Thirteen were Abdullah victories of which nine were 500-100.
+</p>
+<br>
+<img class ='postimg' src='images/digitsprov.png' atl='nine digit count plots' />
+<em>From top left: Baghlan, Ghazni, Jawzjan, Kandahar, Nangarhar, Nooristan, Paktika, Paktya, and Wardak.</em>
+<br><br>
+<p>
+These cases suggest instances where vote totals are either being estimated or made up. Here are the locations across the country where both candidates' vote count ends in 00/50 or one candidate's vote count is exactly 500 or 550 (blue dots indicate Ashraf Ghani had more votes at a polling center, red for Abdullah).
+</p>
+<br>
+<div id='dots' class='map'></div>
+<p>
+These polling stations contributed over 60,000 votes to the final tally.
+</p>
+<br>
+
+<h3>Fraud impact</h3>
+</p>
+In 2009, election authorities used a rough criteria for identifying polling station as suspicious: all stations that returned 600 votes and over 95% were for one candidate were flagged. Expecting similar scrutiny, some Afghans were more careful in their manipulation of results. In this election, that criteria would invalidate a little over 400,000 votes (87% Ashraf Ghani). To determine a better estimate for how many votes should be "quarantined", we combined the results of the tests above, flagging polling stations for three reasons:
+</p>
+<ul>
+  <li>Digit Analysis: All polling stations where both candidates had a vote count ending in "00" or "50" (excluding 600/0) or if one candidate had exactly 500 or 550 votes</li>
+  <li>Voter Turnout: In districts with greater than 60% turnout compared to the population, we flagged all polling stations with greater than 550 votes and 95% for one candidate</li>
+  <li>2009 Criteria: We repeated the 2009 fraudulent polling criteria</li>
+</ul>
+<p>
+Here's how many votes from each candidate were flagged with the above procedure. Note that the columns will not sum to the total because of overlap between the flags.
+</p>
+<br><br>
+<table>
+  <tr>
+    <th></th>
+    <th>Digit Analysis</th>
+    <th>Voter Turnout</th>
+    <th>2009 Criteria</th>
+    <th>Total Quarantined</th>
+  </tr>
+  <tr>
+    <td>Ashraf Ghani</td>
+    <td>33,895</td>
+    <td>796,586</td>
+    <td>365,592</td>
+    <td>1,006,713</td>
+  </tr>
+  <tr>
+    <td>Abdullah</td>
+    <td>28,569</td>
+    <td>85,393</td>
+    <td>53,208</td>
+    <td>186,295</td>
+  </tr>
+  <tr>
+    <td>Total Votes</td>
+    <td>62,464</td>
+    <td>881,979</td>
+    <td>418,800</td>
+    <td>1,193,008</td>
+  </tr>
+  <tr>
+    <td>Polling Stations</td>
+    <td>113</td>
+    <td>1,486</td>
+    <td>698</td>
+    <td>2,013</td>
+  </tr>
+</table>
+<br>
+<p>
+Excluding the votes from "quarantined" polling stations reveals an extremely close election. Ashraf Ghani leads non-"quarantined" stations by a much narrower margin of 3,479,175 - 3,275,344. A full review of all stations is warranted to determine which reflect legitimate votes. Only a full and thorough audit can ensure a quality process which reflects the confidence that Afghans have invested in it by voting in such large numbers.
+
+If a proper audit is conducted, Afghans should be prepared for a result that looks very different from either the initial results announced by the IEC, which significantly favored Ashraf Ghani, or the results from preliminary elections which significantly favored Abdullah.
+</p>
+<br><br><br>
+<div class='logo'>
+  <div><a href='http://developmentseed.org/'>
+    <img class='logo' src='https://dl.dropboxusercontent.com/u/29368453/devseed-logo.png' /></a>
+  </div>
+</div>
+<p><a href='https://twitter.com/drewbo19'>Drew Bollinger</a> is a Washington, DC based developer at <a href='http://developmentseed.org/'>Development Seed</a>.<br>
+<a href='https://twitter.com/ianschuler'>Ian Schuler</a> is the CEO of Development Seed.<br>
+Photo credit: Lorenzo Tugnoli for UNDP ELECT. <a href='https://www.flickr.com/photos/undpafghanistan/14463637286'>UNDPAF All Rights Reserved.</a></p>
+
+<br><br>
+</div>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.4/mapbox.js'></script>
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+<script src='index.js'></script>
+</body>
+</html>
