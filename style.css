@@ -1070,7 +1070,7 @@ body.dark .sidebar h2 { color:#fff; }
 }
 
 .main h1 {
-  font-size: 36px;
+  font-size: 35px;
   margin-bottom: 30px;
   margin-top:20px;
 }
@@ -1090,6 +1090,7 @@ body.dark .sidebar h2 { color:#fff; }
   margin: 25px 0px 25px 0px;
   display:block;
 }
+
 .fp {
   width: 60%;
   left: 20%;
@@ -1258,6 +1259,10 @@ a {
   margin-top: 0;
   font-size: 14px;
   padding: 15px;
+}
+
+.main h1 {
+  font-size: 30px;
 }
 
 .map{
