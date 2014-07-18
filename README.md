@@ -1,6 +1,8 @@
 Afghanistan 2014 Analysis
 =========================
 
-Data from [here](https://github.com/developmentseed/aodp-data/tree/runoff/data/2014_president_election/results/preliminary-results).
+Election data from [here](https://github.com/developmentseed/aodp-data/tree/runoff/data/2014_president_election/results).
 
-All scripts will be uploaded ASAP
+Population data from [Central Statistics Organization](http://cso.gov.af/en).
+
+All scripts will be uploaded ASAP.
