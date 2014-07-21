@@ -6,10 +6,14 @@ There are multiple sources of population data for Afghanistan. Our analysis uses
 CSO
 ==
 
+[CSO district level population, 2012-2013](https://github.com/developmentseed/afghanistan-2014-analysis/blob/gh-pages/population/population_matched_cso.csv)
+
 Official population data from the government of Afghanistan is made available at the [Afghanistan Central Statistics Organziation](http://cso.gov.af/en)
 
 UNFPA
 ==
+
+[UNFPA district level population, 2003-2005](https://github.com/developmentseed/afghanistan-2014-analysis/blob/gh-pages/population/UNFPA_pop_append.csv)
 
 Working in conjunction with the CSO, UNFPA performed a household survey between 2003-2005 to prepare for a potential future census. The raw data is available in PDF format from the [Afghanistan Agriculture site](http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/) at UC Davis.
 
