@@ -8,7 +8,7 @@ CSO
 
 Official population data from the government of Afghanistan is made available at the [Afghanistan Central Statistics Organziation](http://cso.gov.af/en)
 
-UNFPO
+UNFPA
 ==
 
 Working in conjunction with the CSO, UNFPA performed a household survey between 2003-2005 to prepare for a potential future census. The raw data is available in PDF format from the [Afghanistan Agriculture site](http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/) at UC Davis.
