@@ -1,0 +1,388 @@
+Province,District ,Number ,Percent ,Males ,Females ,Sex ratio,agcho_prov,agcho_dist,agcho_dist_id,iec_id
+Badakshan,Arghanj Khwah,14741,1.8,7313,7428,98.5,Badakhshan,Arghanj Khwa,1504,1703
+Badakshan,Argo,83999,10.3,43273,40726,106.3,Badakhshan,Argo,1503,1702
+Badakshan,Baharak,33012,4,16520,16492,100.2,Badakhshan,Baharak,1512,1706
+Badakshan,Darayim,37983,4.6,18952,19031,99.6,Badakhshan,Darayem,1510,1707
+Badakshan,Darwazi Balai Nesay,26986,3.3,13422,13564,99,Badakhshan,Darwaz-e-Balla,1515,1727
+Badakshan,Darwazi Payin Mamay,22848,2.8,11470,11378,100.8,Badakhshan,Darwaz,1524,1722
+Badakshan,Ishkashim,12566,1.5,6365,6201,102.6,Badakhshan,Ishkashem,1523,1723
+Badakshan,Jurm,51714,6.3,27949,27501,101.6,Badakhshan,Jorm,1521,1710
+Badakshan,Khash,15436,1.9,7836,7600,103.1,Badakhshan,Khash,1511,1705
+Badakshan,Khwahan,14235,1.7,7094,7141,99.3,Badakhshan,Khwahan,1517,1720
+Badakshan,Kiran Wa Munjan,8084,1,4088,3996,102.3,Badakhshan,Koran wa Monjan,1526,1726
+Badakshan,Kishm,71262,8.7,36337,34925,104,Badakhshan,Keshem,1518,1715
+Badakshan,Kohistan,15586,1.9,8118,7468,108.7,Badakhshan,Kohistan,1505,1708
+Badakshan,Kufab,20835,2.5,10310,10525,98,Badakhshan,Kof Ab,1516,1721
+Badakshan,Markazi  Badakhshan―Fayzabad,61057,7.5,48379,48447,99.9,Badakhshan,Faiz Abad,1501,1701
+Badakshan,Raghistan,28927,3.5,14834,14093,105.3,Badakhshan,Raghistan,1506,1714
+Badakshan,Shahri Buzurg,45419,5.5,22774,22645,100.6,Badakhshan,Shahr-e-Buzorg,1508,1713
+Badakshan,Shighnan,22939,2.8,11756,11183,105.1,Badakhshan,Shighnan,1514,1719
+Badakshan,Shiki,18105,2.2,9013,9092,99.1,Badakhshan,Shaki,1525,1724
+Badakshan,Shuhada,26430,3.2,13509,12921,104.6,Badakhshan,Shuhada,1513,1712
+Badakshan,Tagab,24375,3,12376,11999,103.1,Badakhshan,Tagab,1519,1717
+Badakshan,Tishkan,26850,3.3,13949,12901,108.1,Badakhshan,Teshkan,1509,1711
+Badakshan,Wakhan,11657,1.4,5898,5759,102.4,Badakhshan,Wakhan,1528,1728
+Badakshan,Warduj,19609,2.4,9952,9657,103.1,Badakhshan,Warduj,1522,1716
+Badakshan,Yaftali Payin,48425,5.9,24118,24307,99.2,Badakhshan,Yaftal-e-Sufla,1502,1704
+Badakshan,Yamgan,22533,2.7,11613,10920,106.3,Badakhshan,Yamgan,1520,1718
+Badakshan,Yawan,27317,3.3,14058,13259,106,Badakhshan,Yawan,1507,1709
+Badakshan,Zebak,6466,0.8,3431,3035,113,Badakhshan,Zebak,1527,1725
+Badghis,Ab Kamari ,81843,16.39,41696,40147,103.86,Badghis,Ab Kamari,2903,3102
+Badghis,Bala Murghab ,109381,21.9,55974,53407,104.81,Badghis,Bala Murghab,2906,3105
+Badghis,Ghormach ,52566,10.53,26672,25894,103,Badghis,Ghormach,2907,3107
+Badghis,Jawand ,77635,15.55,39095,38540,101.44,Badghis,Jawand,2905,3106
+Badghis,Muqur ,20480,4.1,10408,10072,103.34,Badghis,Muqur,2902,3103
+Badghis,Provincial Center―Qala-I-Now ,69349,13.89,35505,33844,104.91,Badghis,Qala-e-Naw,2901,3101
+Badghis,Qadis ,88139,17.65,45504,42635,106.73,Badghis,Qadis,2904,3104
+Baghlan,Andarab,19642,2.65,10100,9542,105.85,Baghlan,Andarab,908,907
+Baghlan,Baghlan-I-Jadeed,119604,16.13,60478,59126,102.29,Baghlan,Baghlan-e-jadid,902,905
+Baghlan,Burka,39118,5.27,20092,19026,105.6,Baghlan,Burka,910,910
+Baghlan,Dahana-I-Ghuri,43153,5.82,22125,21028,105.22,Baghlan,Dahana-e-Ghory,903,902
+Baghlan,Deh Salah,29098,3.92,15165,13933,108.84,Baghlan,Deh Salah,912,908
+Baghlan,Dushi,57160,7.71,29201,27959,104.44,Baghlan,Dushi,904,903
+Baghlan,Firing Wa Gharu,15552,2.1,7966,7586,105.01,Baghlan,Firing Wa Gharu,915,915
+Baghlan,Gozargah-I-Noor,9568,1.29,5000,4568,109.46,Baghlan,Guzargah-e- Nur,914,914
+Baghlan,Jalga,25058,3.38,13031,12027,108.35,Baghlan,Khwaja Hejran,909,909
+Baghlan,Khinjan,26344,3.55,13296,13048,101.9,Baghlan,Khenjan,907,906
+Baghlan,Khost  Wa Firing,56678,7.64,29244,27434,106.6,Baghlan,Khowst wa Fereng,913,913
+Baghlan,Nahreen,57509,7.75,29508,28001,105.38,Baghlan,Nahrin,905,904
+Baghlan,Provincial  Center―Pul-I-Khumri,191640,25.84,97890,93750,104.42,Baghlan,Pul-e- khumri,901,901
+Baghlan,Pul-I-Hisar,22196,2.99,11662,10534,110.71,Baghlan,Pul-e-Hesar,911,912
+Baghlan,Tala Wa Barfak,29370,3.96,15267,14103,108.25,Baghlan,Tala wa barfak,906,911
+Balkh,Balkh,97055,8.64,48868,48187,101.41,Balkh,Balkh,1805,2106
+Balkh,Char Bolak,69975,6.23,35304,34671,101.83,Balkh,Chahar Bolak,1812,2111
+Balkh,Char Kent,32306,2.87,16615,15691,105.89,Balkh,Chahar Kent,1807,2104
+Balkh,Chimtal,81311,7.23,41107,40204,102.25,Balkh,Chemtal,1813,2108
+Balkh,Dawlat  Abad,79638,7.09,40529,39109,103.63,Balkh,Dawlat Abad,1804,2109
+Balkh,Dehdadi,66009,5.87,33860,32149,105.32,Balkh,Deh Dadi,1806,2103
+Balkh,Kaldar,17932,1.6,9141,8791,103.98,Balkh,Kaldar,1810,2113
+Balkh,Khulm,49207,4.38,25093,24114,104.06,Balkh,Khulm,1809,2110
+Balkh,Kishindeh,49083,4.37,25020,24063,103.98,Balkh,Kishindeh,1815,2114
+Balkh,Marmul,9510,0.85,4804,4706,102.08,Balkh,Marmul,1808,2105
+Balkh,Nahri Shahi,38791,3.45,19805,18986,104.31,Balkh,Nahr-e- Shahi,1802,2102
+Balkh,Provincial Center―Mazar-i-Sharif,375181,33.38,190626,184555,103.29,Balkh,Mazar-e-Sharif,1801,2101
+Balkh,Sholgara,85269,7.59,43576,41693,104.52,Balkh,Sholgareh,1814,2107
+Balkh,Shortepa,30314,2.7,15551,14763,105.34,Balkh,Shor Tepa,1803,2112
+Balkh,Zari,42367,3.77,21426,20941,102.32,Balkh,Zari,1816,2115
+Bamyan,Kahmard,31042,9.03,15839,15203,104.18,Bamyan,Kahmard,1006,1004
+Bamyan,Panjab,48397,14.07,24118,24279,99.34,Bamyan,Panjab,1004,1006
+Bamyan,Provincial Center―Bamyan,70028,20.36,34135,35893,95.1,Bamyan,Bamyan,1001,1001
+Bamyan,Saighan,23215,6.75,11779,11436,103,Bamyan,Sayghan,1002,1003
+Bamyan,Shebar,22933,6.67,11878,11055,107.44,Bamyan,Shibar,1005,1002
+Bamyan,Waras,82119,23.88,41182,40937,100.6,Bamyan,Waras,1007,1007
+Bamyan,Yakawlang,66158,19.24,33195,32963,100.7,Bamyan,Yakawlang,1003,1005
+Daykundi,Get i ,59947,12.55,30297,29650,102.18,Daykundi,kiti,2204,2406
+Daykundi,Gizab ,75503,15.81,37920,37583,100.9,Daykundi,Gizab,2205,2403
+Daykundi,Ishterlai ,52909,11.08,26881,26028,103.28,Daykundi,Ashtarlay,2202,2404
+Daykundi,Kejran ,26259,5.5,13494,12765,105.71,Daykundi,Kajran,2208,2409
+Daykundi,Khedir ,41420,8.67,20821,20599,101.08,Daykundi,Khadir,2203,2405
+Daykundi,Miramor ,78506,16.44,40389,38117,105.96,Daykundi,Miramor,2209,2407
+Daykundi,Provincial Center―Nil i ,30058,6.29,15210,14848,102.44,Daykundi,Nili,2201,2401
+Daykundi,Sang-I-Takht ,46612,9.76,23325,23287,100.16,Daykundi,Sang-e-Takht,2207,2408
+Daykundi,Shahristan ,66330,13.89,33828,32502,104.08,Daykundi,Shahristan,2206,2402
+Farah,Anar Dara,24782,5.03,12518,12264,102.07,Farah,Anar Dara,3111,3307
+Farah,Bakwa,39871,8.09,20520,19351,106.04,Farah,Bakwa,3102,3308
+Farah,Bala Buluk,72465,14.7,37480,34985,107.13,Farah,Bala Buluk,3103,3306
+Farah,Gulistan,49774,10.1,25503,24271,105.08,Farah,Gulestan,3109,3310
+Farah,Khak-I -Safed,34600,7.02,17517,17083,102.54,Farah,Khak-e-Safed,3104,3303
+Farah,Lash-I -Juwayn,20499,4.16,10433,10066,103.65,Farah,Lash-e-Juwayn,3108,3309
+Farah,Provincial Center―Farah,109409,22.19,55878,53531,104.38,Farah,Farah,3101,3301
+Farah,Pur Chaman,51626,10.47,27037,24589,109.96,Farah,Pur Chaman,3110,3311
+Farah,Pushtrud,36315,7.37,18665,17650,105.75,Farah,Pusht Rod,3105,3302
+Farah,Qala-I-Kah,30653,6.22,15447,15206,101.58,Farah,Qala-e-Kah,3106,3304
+Farah,Shibkoh,23013,4.67,11607,11406,101.76,Farah,Shib Koh,3107,3305
+Faryab,Almar,61900,7.42,31148,30752,101.29,Faryab,Almar,2805,2904
+Faryab,Andkhoy,41656,5,20789,20867,99.63,Faryab,Andkhoy,2811,2913
+Faryab,Bilchiragh,41706,5,21168,20538,103.07,Faryab,Bil Cheragh,2809,2905
+Faryab,Dawlat  Abad,42078,5.05,21203,20875,101.57,Faryab,Dawlat Abad,2810,2909
+Faryab,Gurziwan,72497,8.7,36745,35752,102.78,Faryab,Garziwan,2808,2908
+Faryab,Khani Charbagh,16943,2.03,8523,8420,101.22,Faryab,Khan-e-Chahar Bagh,2813,2914
+Faryab,Khwaja Sabz Poshi Wali,45268,5.43,23214,22054,105.26,Faryab,Khwaja Sabzposh,2802,2903
+Faryab,Kohistan,53616,6.43,27103,26513,102.23,Faryab,Kohistan,2807,2910
+Faryab,Pashtun Kot,158250,18.98,81703,76547,106.74,Faryab,Pashtun kot,2803,2902
+Faryab,Provincial Center Of  Faryab ( Maimana ),68055,8.16,34447,33608,102.5,Faryab,Maymana,2801,2901
+Faryab,Qaisar,117477,14.09,59910,57567,104.07,Faryab,Qaysar,2806,2907
+Faryab,Qaram Qul,16098,1.93,7927,8171,97.01,Faryab,Qaram Qol,2812,2911
+Faryab,Qurghan,27116,3.25,13278,13838,95.95,Faryab,Qorghan,2814,2912
+Faryab,Shirin Tagab,71064,8.52,36164,34900,103.62,Faryab,Shirin Tagab,2804,2906
+Ghazni,Ab Band,26124,2.42,13627,12497,109.04,Ghazni,Ab Band,1115,1113
+Ghazni,Ajristan,24865,2.3,12840,12025,106.78,Ghazni,Ajrestan,1116,1118
+Ghazni,Andar,120277,11.13,61921,58356,106.11,Ghazni,Andar,1105,1107
+Ghazni,Deh Yak,44386,4.11,22589,21797,103.63,Ghazni,Deh Yak,1106,1105
+Ghazni,Gelan,52073,4.82,26736,25337,105.52,Ghazni,Gelan,1118,1117
+Ghazni,Giro,38110,3.53,19945,18165,109.8,Ghazni,Giro,1111,1112
+Ghazni,Jaghatu,29378,2.72,14912,14466,103.08,Ghazni,Jaghatu,1109,1106
+Ghazni,Jaghuri,152162,14.08,76992,75170,102.42,Ghazni,Jaghuri,1113,1114
+Ghazni,Khwaja Omari,17475,1.62,8746,8729,100.19,Ghazni,Khwaja Umari,1102,1103
+Ghazni,Malistan,71784,6.64,35409,36375,97.34,Ghazni,Malestan,1117,1116
+Ghazni,Muqur,47425,4.39,24753,22672,109.18,Ghazni,Muqur,1114,1115
+Ghazni,Nawa,5147,0.48,2734,2413,113.3,Ghazni,Nawa,1119,0
+Ghazni,Nuwar,81909,7.58,41365,40544,102.02,Ghazni,Nawur,1112,1110
+Ghazni,Provincial Center―Ghazni,154618,14.31,78190,76428,102.31,Ghazni,Ghazni,1101,1101
+Ghazni,Qara Bagh,132174,12.23,67466,64708,104.26,Ghazni,Qarabagh,1110,1111
+Ghazni,Rashidan,12279,1.14,6220,6059,102.66,Ghazni,Rashidan,1108,1109
+Ghazni,Waghaz,36531,3.38,18740,17791,105.33,Ghazni,Waghaz,1104,1104
+Ghazni,Wali Mohammad Shahid Khugyani,16608,1.54,8546,8062,106,Ghazni,Wali Muhammad-e- Shahid,1103,1102
+Ghazni,Zanakhan,17518,1.62,8862,8656,102.38,Ghazni,Zana Khan,1107,1108
+Ghor,Char Sada,30079,4.73,15353,14726,104.26,Ghor,Chahar Sadra,2102,2304
+Ghor,Dawlatyar,33364,5.25,16628,16736,99.35,Ghor,Dawlat Yar,2104,2303
+Ghor,Duleena,38654,6.08,19544,19110,102.27,Ghor,Du Lina,2103,2302
+Ghor,Lal Wa Sarjangal,92800,14.61,45877,46923,97.77,Ghor,Lal Wa Sarjangal,2108,2307
+Ghor,Pasaband,92356,14.54,47246,45110,104.74,Ghor,Pasaband,2107,2305
+Ghor,Provincial Center―Chighcheran,132442,20.85,66763,65679,101.65,Ghor,Chaghcharan,2101,2301
+Ghor,Saghar,30497,4.8,15906,14591,109.01,Ghor,Saghar,2110,2310
+Ghor,Shahrak,57888,9.11,30163,27725,108.79,Ghor,Shahrak,2105,2306
+Ghor,Taywara,82287,12.95,42963,39324,109.25,Ghor,Taywarah,2106,2308
+Ghor,Tulak,44935,7.07,23189,21746,106.64,Ghor,Tolak,2109,2309
+Helmand,Baghran  ,129947,9.01,65537,64410,101.75,Hilmand,Baghran,3211,0
+Helmand,Dishu,29005,2.01,13862,15143,91.54,Hilmand,Deh shu,3213,0
+Helmand,Garm Ser,107153,7.43,54133,53020,102.1,Hilmand,Garm Ser,3209,3006
+Helmand,Kajaki,119023,8.26,60802,58221,104.43,Hilmand,Kajaki,3210,3010
+Helmand,Musa Qala,138896,9.63,69180,69716,99.23,Hilmand,Musa Qaleh,3206,3009
+Helmand,Nad Ali,235590,16.34,121787,113803,107.02,Hilmand,Nad-e-Ali,3203,3002
+Helmand,Nahr-I -Saraj,166827,11.57,86035,80792,106.49,Hilmand,Nahr-e-Saraj,3202,3004
+Helmand,Nawa-I- Barikzayi,89814,6.23,45888,43926,104.47,Hilmand,Nawa-e-Barak Zaiy,3204,3003
+Helmand,Nawzad,108258,7.51,53901,54357,99.16,Hilmand,Naw Zad,3207,3007
+Helmand,Provincial Center―Lashkargah,201546,13.98,102674,98872,103.85,Hilmand,Lashkar Gah,3201,3001
+Helmand,Reg-I- Khan Nishin,17333,1.2,8868,8465,104.76,Hilmand,Reg(khan Neshin),3212,3011
+Helmand,Sangin Qala,66901,4.64,33748,33153,101.79,Hilmand,Sangin,3205,3008
+Helmand,Washer,31476,2.18,15588,15888,98.11,Hilmand,Wa Sher,3208,3005
+Herat,Adraskan,56193,3.19,27988,28205,99.23,Hirat,Adraskan,3010,3209
+Herat,Chishti Sharif,25428,1.44,12875,12553,102.57,Hirat,Chisht-e-Sharif,3016,3216
+Herat,Enjil,224607,12.75,113525,111082,102.2,Hirat,Injil,3002,3202
+Herat,Fersi,28252,1.6,14640,13612,107.55,Hirat,Farsi,3011,3215
+Herat,Ghoryan,90201,5.12,45392,44809,101.3,Hirat,Ghoryan,3009,3211
+Herat,Gulran,106983,6.07,53055,53928,98.38,Hirat,Gulran,3008,3208
+Herat,Karrukh,58594,3.33,29226,29368,99.52,Hirat,Karukh,3007,3204
+Herat,Kohsan,57782,3.28,28687,29095,98.6,Hirat,Kohsan,3014,3213
+Herat,Kushk (Rubat-I-Sangi),133446,7.57,66900,66546,100.53,Hirat,Kushk,3003,3207
+Herat,Kushk-I -Kuhna,41642,2.36,20973,20669,101.47,Hirat,Kushk-e-Kohna,3013,3210
+Herat,Nizam-I-Shahid (Guzara),135187,7.67,67872,67315,100.83,Hirat,Guzara,3005,3203
+Herat,Obe,75175,4.27,38122,37053,102.89,Hirat,Obe,3012,3212
+Herat,Pashtun Zarghun,90817,5.15,46016,44801,102.71,Hirat,Pashtun  Zarghun,3006,3206
+Herat,Provincial Center―Hirat,397456,22.56,199106,198350,100.38,Hirat,Hirat,3001,3201
+Herat,Shindand,185418,10.52,92285,93133,99.09,Hirat,Shindand,3015,3214
+Herat,Zendajan,54976,3.12,27120,27856,97.36,Hirat,Zinda Jan,3004,3205
+Jawzjan,Aqchah,42061,9.85,21045,21016,100.14,Jawzjan,Aqcha,2707,2807
+Jawzjan,Darzab,37185,8.71,18867,18318,103,Jawzjan,Darz Ab,2711,2811
+Jawzjan,Faizabad,33969,7.96,17295,16674,103.72,Jawzjan,Fayz Abad,2705,2808
+Jawzjan,Khamyab,12517,2.93,6420,6097,105.3,Jawzjan,Khamyab,2710,2806
+Jawzjan,Khanaqa,30927,7.24,15569,15358,101.37,Jawzjan,Khanaqa,2706,2803
+Jawzjan,Khwaja Dukoh,19372,4.54,9799,9573,102.36,Jawzjan,Khwaja Du Koh,2703,2802
+Jawzjan,Mardyan,26326,6.17,13115,13211,99.27,Jawzjan,Mardyan,2708,2809
+Jawzjan,Mingajik,31492,7.38,16092,15400,104.49,Jawzjan,Mingajik,2702,2804
+Jawzjan,Provincial Center―Sheberghan,148329,34.74,74355,73974,100.52,Jawzjan,Shiberghan,2701,2801
+Jawzjan,Qarqin,19878,4.66,10128,9750,103.88,Jawzjan,Qarqin,2709,2810
+Jawzjan,Qush Tepa,24931,5.84,12738,12193,104.47,Jawzjan,Qush Tepa,2704,2805
+Kabul,Bagrami,68287,2.8,34902,33385,104.5,Kabul,Bagrami,107,104
+Kabul,Chahar Asyab,26089,1.1,13453,12636,106.5,Kabul,Chahar Asyab,105,103
+Kabul,Deh Sabz,47348,2,24288,23060,105.3,Kabul,Deh Sabz,102,105
+Kabul,Estalef,16513,0.7,8367,8146,102.7,Kabul,Estalef,114,113
+Kabul,Farza,15139,0.6,7793,7346,106.1,Kabul,Farza,115,112
+Kabul,Guldara,14245,0.6,7314,6931,105.5,Kabul,Guldara,111,111
+Kabul,Kalakan,18192,0.8,9206,8986,102.4,Kabul,Kalakan,109,110
+Kabul,Khak-I-Jabar,7461,0.3,3811,3650,104.4,Kabul,Khak-e- Jabbar,112,109
+Kabul,Mir Bacha Kot,32461,1.3,16028,16433,97.5,Kabul,Mir Bacha Kot,110,108
+Kabul,Musahi,18351,0.8,9317,9034,103.1,Kabul,Musayi,106,107
+Kabul,Paghman,82597,3.4,42013,40584,103.5,Kabul,Paghman,104,102
+Kabul,Provincial  Center--Kabul,1925548,79.4,979643,945905,103.6,Kabul,Kabul,101,101
+Kabul,Qara Bagh,50321,2.1,25312,25009,101.2,Kabul,Qarabagh,108,114
+Kabul,Shakar Dara,57644,2.4,29056,28588,101.6,Kabul,Shakardara,103,106
+Kabul,Surubi,44871,1.9,22677,22194,102.2,Kabul,Surobi,113,115
+Kandahar,Arghandab,53205,5.83,27380,25825,106.02,Kandahar,Arghandab,3302,2702
+Kandahar,Daman,27680,3.03,14293,13387,106.77,Kandahar,Daman,3305,2703
+Kandahar,Khakrez,15074,1.65,7864,7210,109.07,Kandahar,Khakrez,3307,2707
+Kandahar,Maiwand,58254,6.39,29351,28903,101.55,Kandahar,Maywand,3308,2710
+Kandahar,Panjwayee,74943,8.22,37960,36983,102.64,Kandahar,Panj wayi,3304,2704
+Kandahar,Provincial Center―Kandahar,437625,47.98,222631,214994,103.55,Kandahar,Kandahar,3301,2701
+Kandahar,Spin Boldak,149853,16.43,77151,72702,106.12,Kandahar,Spin Boldak,3311,2711
+Kandahar,Zhire,95396,10.46,48777,46619,104.63,Kandahar,Zheray,3303,2705
+Kapisa,Alasai,34894,9.74,17875,17019,105.03,Kapisa,Alasay,206,207
+Kapisa,Hissa-I-Awal Kohistan,46906,13.09,23097,23809,97.01,Kapisa,Hesa Awal-e- Kohestan,207,204
+Kapisa,Hissa-I-Duwumi Kohistan,42344,11.82,21286,21058,101.08,Kapisa,Hisa Duwum-e- Kohestan,204,202
+Kapisa,Koh Band,19600,5.47,9635,9965,96.69,Kapisa,Koh Band,203,203
+Kapisa,Nijrab,92533,25.83,46052,46481,99.08,Kapisa,Nejrab,202,205
+Kapisa,Provincial Center―Mahmood Raqi,48774,13.61,24118,24656,97.82,Kapisa,Mahmud-e- Raqi,201,201
+Kapisa,Tagab,73217,20.44,35886,37331,96.13,Kapisa,Tagab,205,206
+Khost,Ali Sher,47650,7.46,24632,23018,107.01,Khost,Tere Zayi,2608,1408
+Khost,Baak,27675,4.33,14065,13610,103.34,Khost,Bak,2612,1409
+Khost,Gurbuz,30751,4.81,15907,14844,107.16,Khost,Gurbuz,2607,1403
+Khost,Jaji Maidan,23197,3.63,12015,11182,107.45,Khost,Jaji Maydan,2613,1413
+Khost,Manduzay (Esmayel Khel ),61682,9.66,31826,29856,106.6,Khost,Mando Zayi,2605,1402
+Khost,Musa Khel,41998,6.57,21382,20616,103.72,Khost,Musa Khel,2603,1405
+Khost,Nadirshah Kot,37193,5.82,19187,18006,106.56,Khost,Nadir Shah Kot,2604,1406
+Khost,Provincial Center―Khost,160214,25.08,81284,78930,102.98,Khost,Khost(Matun),2601,1401
+Khost,Qalandar,11406,1.79,6006,5400,111.22,Khost,Qalandar,2609,1410
+Khost,Sabari (Yaqubi),89779,14.05,45701,44078,103.68,Khost,Sabri,2602,1407
+Khost,Shamul,13523,2.12,7015,6508,107.79,Khost,Shamal (Shamul),2610,1412
+Khost,Spera,26685,4.18,13886,12799,108.49,Khost,Spera,2611,1411
+Khost,Tanay,67096,10.5,33976,33120,102.58,Khost,Tani,2606,1404
+Kunarha,Bar Kunar,20716,5.02,10533,10183,103.44,Kunar,Bar Kunar,1311,1508
+Kunarha,Chapa Dara,28681,6.94,14751,13930,105.89,Kunar,Chapa Dara,1313,1513
+Kunarha,Dangam,15509,3.76,8004,7505,106.65,Kunar,Dangam,1310,1512
+Kunarha,Dara-I -Pech,44958,10.89,23150,21808,106.15,Kunar,Dara-e-Pech,1307,1507
+Kunarha,Ghazi Abad,23663,5.73,12046,11617,103.69,Kunar,Ghazi Abad,1312,1511
+Kunarha,Khas Kunar,31950,7.74,16074,15876,101.25,Kunar,Khas Kunar,1309,1510
+Kunarha,Mara Wara,17316,4.19,8692,8624,100.79,Kunar,Marawara,1305,1502
+Kunarha,Narang Wa Badil,27937,6.76,14115,13822,102.12,Kunar,Narang,1303,1504
+Kunarha,Nari,32510,7.87,16811,15699,107.08,Kunar,Nari,1315,1515
+Kunarha,Noorgal,25047,6.06,13048,11999,108.74,Kunar,Nurgal,1314,1514
+Kunarha,Provincial Center―Asad Abad,29177,7.06,15023,14154,106.14,Kunar,Asad Abad,1301,1501
+Kunarha,Sar Kani,24080,5.83,12165,11915,102.1,Kunar,Sarkani,1304,1505
+Kunarha,Sawkai,28905,7,14950,13955,107.13,Kunar,Chawkay,1308,1509
+Kunarha,Shigal Wa Sheltan,33781,8.18,17200,16581,103.73,Kunar,Shigal wa shel tan,1306,1506
+Kunarha,Watapoor ,28778,6.97,14507,14271,101.65,Kunar,Wata Pur,1302,1503
+Kunduz,Ali Abad ,38522,4.98,19275,19247,100.15,Kunduz,Ali Abad,1705,1903
+Kunduz,Char Darah  ,61587,7.96,30963,30624,101.11,Kunduz,Chahar Darah,1704,1902
+Kunduz,Dasht-I-Archi ,57150,7.39,28461,28689,99.21,Kunduz,Dasht-e-Archi,1707,1906
+Kunduz,Hazrati Imam Sahib ,199186,25.76,100707,98479,102.26,Kunduz,Imam Saheb,1702,1905
+Kunduz,Khan Abad ,114743,14.84,56779,57964,97.96,Kunduz,Khan Abad,1706,1904
+Kunduz,Provincial Center―Kunduz ,247450,32,123868,123582,100.23,Kunduz,Kunduz,1701,1901
+Kunduz,Qala-I-Zal ,54749,7.08,27716,27033,102.53,Kunduz,Qala-e-Zal,1703,1907
+Laghman,Alinigar,89716,23.47,46033,43683,105.38,Laghman,Alingar,704,704
+Laghman,Alishing,68153,17.83,34785,33368,104.25,Laghman,Alishang,702,703
+Laghman,Dawlat  Shah,40887,10.7,21025,19862,105.86,Laghman,Daulat Shah,705,705
+Laghman,Provincial Center―Mehterlam,112856,29.52,57920,54936,105.43,Laghman,Mehtarlam,701,701
+Laghman,Qarghayi,70668,18.49,36120,34548,104.55,Laghman,Qarghayi,703,702
+Logar,Azra,14550,4.51,7485,7065,105.94,Logar,Azra,507,507
+Logar,Baraki Barak,78063,24.19,39575,38488,102.82,Logar,Baraki Barak,504,502
+Logar,Charkh,40492,12.55,20449,20043,102.03,Logar,Charkh,505,503
+Logar,Khar War,26607,8.25,13359,13248,100.84,Logar,Kharwar,506,506
+Logar,Khushi,15127,4.69,7608,7519,101.18,Logar,Khoshi,502,504
+Logar,Mohammad Agha,58979,18.28,29919,29060,102.96,Logar,Mohammad Agha,503,505
+Logar,Provincial Center―Puli Alam,88886,27.54,44675,44211,101.05,Logar,Pul-e- Alam,501,501
+Nangarhar,Achin,95468,7.11,48356,47112,102.64,Nangarhar,Achin,617,615
+Nangarhar,Bati Kot,71308,5.31,36169,35139,102.93,Nangarhar,Bati Kot,615,609
+Nangarhar,Behsud,118934,8.86,60453,58481,103.37,Nangarhar,Behsud,602,602
+Nangarhar,Chaparhar,57339,4.27,28910,28429,101.69,Nangarhar,Chaparhar,605,604
+Nangarhar,Darah-I-Noor,28202,2.1,14304,13898,102.92,Nangarhar,Dara-e-Nur,609,612
+Nangarhar,Deh Bala,33294,2.48,17205,16089,106.94,Nangarhar,Deh Bala,613,610
+Nangarhar,Dur Baba,13479,1,7012,6467,108.43,Nangarhar,Dur Baba,622,622
+Nangarhar,Goshta,31130,2.32,15899,15231,104.39,Nangarhar,Goshta,616,614
+Nangarhar,Hesarak,28376,2.11,14464,13912,103.97,Nangarhar,Hesarak,610,621
+Nangarhar,Kama,52527,3.91,26887,25640,104.86,Nangarhar,Kama,607,605
+Nangarhar,Khugyani,111479,8.3,57280,54199,105.68,Nangarhar,Khowgiani,604,608
+Nangarhar,Kot,52154,3.88,26334,25820,101.99,Nangarhar,Kot,614,613
+Nangarhar,Kuzkunar,42823,3.19,22066,20757,106.31,Nangarhar,Kuz Kunar,608,606
+Nangarhar,Lalpoor ,18997,1.42,9755,9242,105.55,Nangarhar,Lal Pur,620,618
+Nangarhar,Muhmand Dara,42103,3.14,21590,20513,105.25,Nangarhar,Muhmand Dara,619,617
+Nangarhar,Nazyan,16328,1.22,8532,7796,109.44,Nangarhar,Nazian,621,620
+Nangarhar,Pachir Wagam,40141,2.99,20669,19472,106.15,Nangarhar,Pachier Agam,612,611
+Nangarhar,Provincial Center―Jalalabad,205423,15.3,104519,100904,103.58,Nangarhar,Jalalabad,601,601
+Nangarhar,Rodat,63357,4.72,32352,31005,104.34,Nangarhar,Rodat,606,607
+Nangarhar,Sher Zad,63232,4.71,31952,31280,102.15,Nangarhar,Sherzad,611,619
+Nangarhar,Shinwar,64872,4.83,32963,31909,103.3,Nangarhar,Shinwar,618,616
+Nangarhar,Surkh Rud,91548,6.82,47399,44149,107.36,Nangarhar,Surkh Rod,603,603
+Nimroz,Asl-I-Chakhansur,11165,9.46,5617,5548,101.24,Nimroz,Chakhansur,3404,3403
+Nimroz,Char Burjak,8080,6.85,4180,3900,107.18,Nimroz,Chahar Burjak,3403,3404
+Nimroz,Kang,13514,11.45,6777,6737,100.59,Nimroz,Kang,3402,3402
+Nimroz,Khashrod,35381,29.99,18109,17272,104.85,Nimroz,Khash Rod,3405,3405
+Nimroz,Provincial Center―Zaranj,49851,42.25,25477,24374,104.53,Nimroz,Zaranj,3401,3401
+Nooristan,Bargi Matal,18398,14.05,8960,9438,94.94,Nuristan,Barg-e- Matal,1408,1608
+Nooristan,Duab,6973,5.32,3333,3640,91.57,Nuristan,Du Ab,1403,1605
+Nooristan,Kamdesh,32720,24.98,16135,16585,97.29,Nuristan,Kamdesh,1407,1606
+Nooristan,Mandol,11875,9.07,6254,5621,111.26,Nuristan,Mandol,1402,1607
+Nooristan,Noor Gram,13023,9.94,6652,6371,104.41,Nuristan,Nurgaram,1404,1604
+Nooristan,Provincial Center Of Nooristan ( Paroon ) ,11508,8.79,5939,5569,106.64,Nuristan,Poruns,1401,1601
+Nooristan,Wama,11042,8.43,5560,5482,101.42,Nuristan,Wama,1405,1603
+Nooristan,Waygal,25425,19.41,13617,11808,115.32,Nuristan,Waygal,1406,1602
+Paktika,Barmal,88028,10.87,44981,43047,104.49,Paktika,Bermel (Burmul),2515,1214
+Paktika,Dila Wa Khushamand,50203,6.2,25899,24304,106.56,Paktika,Dila,2518,1216
+Paktika,Giyan,42495,5.25,21153,21342,99.11,Paktika,Gian,2516,1215
+Paktika,Gomal,64275,7.94,32717,31558,103.67,Paktika,Gomal,2508,1208
+Paktika,Jani Khel,35251,4.35,18145,17106,106.07,Paktika,Jani Khel,2512,1209
+Paktika,Mata Khan,19758,2.44,10050,9708,103.52,Paktika,Mata Khan,2502,1202
+Paktika,Nika,15103,1.87,7632,7471,102.15,Paktika,Nika,2511,1213
+Paktika,Omna,25690,3.17,13040,12650,103.08,Paktika,Omna,2507,1206
+Paktika,Provincial Center―Sharan,54416,6.72,27776,26640,104.26,Paktika,Sharan,2501,1201
+Paktika,Sar Rawza,36236,4.47,18059,18177,99.35,Paktika,Sar Hawzeh(Rawzeh),2504,1205
+Paktika,Surubi,48291,5.96,24026,24265,99.02,Paktika,Sarobi,2509,1210
+Paktika,Turwo,15332,1.89,8165,7167,113.92,Paktika,Turwo (Tarwe),2519,1219
+Paktika,Urgoon,89718,11.08,44857,44861,99.99,Paktika,Urgun,2510,1211
+Paktika,Wazakhwah,50818,6.28,26518,24300,109.13,Paktika,Waza Khah,2513,1217
+Paktika,Wor Mamay,30135,3.72,15467,14668,105.45,Paktika,Wor Mamay,2514,1218
+Paktika,Yahya Khel,30161,3.72,15395,14766,104.26,Paktika,Yahya Khel,2506,1204
+Paktika,Yosuf Khel,32648,4.03,16802,15846,106.03,Paktika,Yosuf Khel,2503,1203
+Paktika,Zarghun Shahr,38024,4.7,19296,18728,103.03,Paktika,Zarghun Shahr,2505,1207
+Paktika,Ziruk,43190,5.33,22481,20709,108.56,Paktika,Ziruk,2517,1212
+Paktya,Laja Ahmad Khel ,45923,8.92,23480,22443,104.62,Paktya,Lija Ahmad Khel,1207,1308
+Paktya,Ahmadaba,35673,6.93,17813,17860,99.74,Paktya,Ahmadaba,1203,1302
+Paktya,Dand Patan,30164,5.86,15572,14592,106.72,Paktya,Dand wa Patan,1211,1311
+Paktya,Jaji,61404,11.93,31474,29930,105.16,Paktya,Ali Khel (Jaji),1208,1307
+Paktya,Jani Khel,40340,7.84,20839,19501,106.86,Paktya,Jani Khel,1209,1309
+Paktya,Provincial Center―Gardez,73131,14.21,37193,35938,103.49,Paktya,Gardez,1201,1301
+Paktya,Samkani,58569,11.38,29286,29283,100.01,Paktya,Chamkani,1210,1310
+Paktya,Sayyid Karam,42967,8.35,22101,20866,105.92,Paktya,Sayed Karam,1202,1306
+Paktya,Shwak,2025,0.39,1006,1019,98.72,Paktya,Shawak,1205,1304
+Paktya,Wuza Jadran,38011,7.38,19738,18273,108.02,Paktya,Zadran,1206,1305
+Paktya,Zurmat,86609,16.82,44196,42413,104.2,Paktya,Zurmat,1204,1303
+Panjsher,Hissa-I -Awal  (Khinj ),26722,24.47,13587,13135,103.44,Panjsher,Khenj (Hes-e- Awal),805,804
+Panjsher,Darah,20360,18.65,10397,9963,104.36,Panjsher,Dara,804,803
+Panjsher,Paryan,12525,11.47,6363,6162,103.26,Panjsher,Parian,807,807
+Panjsher,Provincial Center―Bazarak,15593,14.28,7947,7646,103.94,Panjsher,Bazarak,801,801
+Panjsher,Rukha,10102,9.25,5127,4975,103.06,Panjsher,Rukha,803,802
+Panjsher,Shutul,11300,10.35,5753,5547,103.71,Panjsher,Shutul,802,806
+Panjsher,Unaba,12587,11.53,6522,6065,107.54,Panjsher,Onaba(Anawa),806,805
+Parwan,Bagram,75423,15.33,37300,38123,97.84,Parwan,Bagram,304,302
+Parwan,Jabulussaraj,48052,9.77,24057,23995,100.26,Parwan,Jabalussaraj,302,305
+Parwan,Koh-I-Safi,13627,2.77,6940,6687,103.78,Parwan,Koh-e- Safi,308,308
+Parwan,Provincial Center—Charikar,130613,26.55,65448,65165,100.43,Parwan,Chaharikar,301,301
+Parwan,Salang,21171,4.3,10483,10688,98.08,Parwan,Salang,306,306
+Parwan,Sayyid Khel,33334,6.78,16825,16509,101.91,Parwan,Sayd Khel,305,304
+Parwan,Shaykh Ali,22831,4.64,11434,11397,100.32,Parwan,Shekh  Ali,309,310
+Parwan,Shinwari,39057,7.94,19569,19488,100.42,Parwan,Shinwari,303,303
+Parwan,Surkh i Parsa,33639,6.84,16882,16757,100.75,Parwan,Surkhe Parsa,310,309
+Parwan,Syahgird (Ghorband),74123,15.07,35943,38180,94.14,Parwan,Syah Gerd,307,307
+Samangan,Dara-I -Soof-I-Bala,52473,16.75,26174,26299,99.52,Samangan,Darah Suf-e-Bala,1905,2006
+Samangan,Dara-I -Soof-I-Payin,55858,17.83,28996,26862,107.94,Samangan,Darah Suf-e-Payin,1904,2006
+Samangan,Feroz Nakhcheer,11701,3.74,6001,5700,105.28,Samangan,Feroz Nakhchir,1903,2004
+Samangan,Hazrat-I -Sultan,36690,11.71,19054,17636,108.04,Samangan,Hazrat-e- Sultan,1902,2002
+Samangan,Khuram Wa Sarbagh,30704,9.8,15592,15112,103.18,Samangan,Khuram wa Sarbagh,1906,2003
+Samangan,Provincial Center―Aybak,85427,27.27,43158,42269,102.1,Samangan,Aybak,1901,2001
+Samangan,Roi-Do-Ab,40358,12.89,21226,19132,110.95,Samangan,Ruy-e-Du Ab,1907,2005
+Sar-i-pul,Balkhab,44041,9.96,22654,21387,105.92,Sar-e-Pul,Balkh Ab,2006,2207
+Sar-i-pul,Gosfandi,39721,8.98,19859,19862,99.98,Sar-e-Pul,Gosfandi,2005,2206
+Sar-i-pul,Kohistanat,72037,16.29,36912,35125,105.09,Sar-e-Pul,Kohistanat,2003,2203
+Sar-i-pul,Provincial Center―Sar-i-Pul,115463,26.11,59390,56073,105.92,Sar-e-Pul,Sar-e-Pul,2001,2201
+Sar-i-pul,Sangcharak,87670,19.82,44287,43383,102.08,Sar-e-Pul,Sang(San)Charak,2007,2205
+Sar-i-pul,Sayyad,47336,10.7,24624,22712,108.42,Sar-e-Pul,Sayad,2002,2202
+Sar-i-pul,Sozma Qala,35993,8.14,18051,17942,100.61,Sar-e-Pul,Sozma Qala,2004,2204
+Takhar,Baharak,40902,4.93,20845,20057,103.93,Takhar,Baharak,1603,1803
+Takhar,Bangi,28197,3.4,13997,14200,98.57,Takhar,Bangi,1604,1804
+Takhar,Chahab,64151,7.73,32489,31662,102.61,Takhar,Chah Ab,1610,1816
+Takhar,Chal,24596,2.96,12817,11779,108.81,Takhar,Chal,1605,1805
+Takhar,Darqad,25771,3.1,13456,12315,109.27,Takhar,Darqad,1617,1815
+Takhar,Dashti Qala,35347,4.26,17843,17504,101.94,Takhar,Dasht-e-Qala,1613,1812
+Takhar,Eshkamesh,51153,6.16,25577,25576,100,Takhar,Ishkamish,1615,1811
+Takhar,Farkhar,39864,4.8,20351,19513,104.29,Takhar,Farkhar,1607,1808
+Takhar,Hazar Sumuch,9774,1.18,5007,4767,105.03,Takhar,Hazar Sumuch,1602,1802
+Takhar,Kalafgan,28122,3.39,13818,14304,96.6,Takhar,Kalafgan,1608,1807
+Takhar,Khwaja Bahawuddin,26280,3.17,12924,13356,96.77,Takhar,Khwaja Bahawuddin,1612,1814
+Takhar,Khwaja Ghar,44909,5.41,22629,22280,101.57,Takhar,Khwaja Ghar,1614,1809
+Takhar,Namak Ab,11563,1.39,5940,5623,105.64,Takhar,Namak Ab,1606,1806
+Takhar,Provincial Center―Taluqan,194471,23.42,98590,95881,102.83,Takhar,Taloqan,1601,1801
+Takhar,Rustaq,132315,15.94,67704,64611,104.79,Takhar,Rostaq,1609,1810
+Takhar,Warsaj,33506,4.04,17293,16213,106.66,Takhar,Warsaj,1616,1813
+Takhar,Yangi Qala,39398,4.74,19920,19478,102.27,Takhar,Yangi Qala,1611,1817
+Urozgan,Chora ,73759,23.01,37666,36093,104.36,Uruzgan,Chora,2302,2503
+Urozgan,Dehraoud ,50718,15.82,26473,24245,109.19,Uruzgan,Dehrawud,2304,2502
+Urozgan,Khas Urozgan ,37888,11.82,19650,18238,107.74,Uruzgan,Khas Uruzgan,2305,2505
+Urozgan,Provincial Center―Tirinkot ,109712,34.22,57409,52303,109.76,Uruzgan,Tirin Kot,2301,2501
+Urozgan,Shahidhassas ,48512,15.13,24383,24129,101.05,Uruzgan,Shahid-e-Hassas,2303,2504
+Wardak,Chaki Wardak,83376,15.8,42733,40643,105.1,Wardak,Chak,406,404
+Wardak,Daimirdad,28865,5.5,14593,14272,102.2,Wardak,Day Mirdad,405,406
+Wardak,Hissa-I-Awali-Bihsud,25079,4.7,12537,12542,100,Wardak,Hesa Awal-e- Behsud,404,407
+Wardak,Jaghatu,46667,8.8,23699,22968,103.2,Wardak,Jaghatu,409,408
+Wardak,Jalrez,44873,8.5,22680,22193,102.2,Wardak,Jalrez,402,403
+Wardak,Markazi Wardak—Maydan Shahr,35008,6.6,17659,17659,101.8,Wardak,Maydan Shahr,401,401
+Wardak,Markazi-Bihsud,94328,17.8,47387,46941,101,Wardak,Markaz-e-Behsud,408,409
+Wardak,Nirkh,56354,10.6,29066,27288,106.5,Wardak,Nerkh,403,402
+Wardak,Sayyid Abad,114793,21.7,58752,56041,104.8,Wardak,Saydabad,407,405
+Zabul,Atghar,13973,5.71,7021,6952,100.99,Zabul,Atghar,2409,2608
+Zabul,Markazi  Zabul―Qalat,36560,14.93,18645,17915,104.07,Zabul,Qalat,2401,2601
+Zabul,Mizan,21162,8.64,11010,10152,108.45,Zabul,Mizan,2403,2604
+Zabul,Naw Bahar,21144,8.63,10923,10221,106.87,Zabul,Naw Bahar,2411,2609
+Zabul,Shah Joy,71348,29.13,36215,35133,103.08,Zabul,Shah Joy,2406,2606
+Zabul,Shamul Zayi,33351,13.62,16475,16876,97.62,Zabul,Shomulzay,2410,2610
+Zabul,Shinkay,28344,11.57,14329,14015,102.24,Zabul,Shinkay,2405,2603
+Zabul,Tarank Wa Jaldak,19017,7.77,9552,9465,100.92,Zabul,Tarnak Wa Jaldak,2404,2602
