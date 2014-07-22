@@ -20,3 +20,16 @@ Working in conjunction with the CSO, UNFPA performed a household survey between 
 We used [Tabula](http://tabula.nerdpower.org/) to convert these into rough csv files and then two python scripts ([1](https://github.com/developmentseed/afghanistan-2014-analysis/blob/gh-pages/population/csv-clean.py) & [2](https://github.com/developmentseed/afghanistan-2014-analysis/blob/gh-pages/population/csv-combine.py)) to create a full, district-level csv of the results
 
 Finally, we did a ~~fuzzy-match~~ manual match of these districts to the AGCHO codes for mapping purposes.
+
+WorldPop
+===
+
+[WorldPop district level population, 2010 & 2015](https://github.com/developmentseed/afghanistan-2014-analysis/blob/gh-pages/population/worldpop_district.csv)
+
+WorldPop provides population data derived from satelitte imagery. We took their raster image of the following: 
+    
+    Alpha version 2010 and 2015 estimates of numbers of people per grid square, with national totals adjusted to match UN     population division estimates (http://esa.un.org/wpp/) and remaining unadjusted. 
+
+and used the QGIS plug-in [zonal statistics](http://docs.qgis.org/2.2/en/docs/user_manual/plugins/plugins_zonal_statistics.html) to aggregate populations to the district level.
+
+Additional info can be found at the [WorldPop download page for Afghanistan population](http://www.worldpop.org.uk/data/summary/?contselect=Asia&countselect=Afghanistan&typeselect=Population)
