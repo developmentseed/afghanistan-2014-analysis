@@ -28,7 +28,7 @@ WorldPop
 
 WorldPop provides population data derived from satelitte imagery. We took their raster image of the following: 
 
->Alpha version 2010 and 2015 estimates of numbers of people per grid square, with national totals adjusted to match UN    >population division estimates (http://esa.un.org/wpp/) and remaining unadjusted. 
+> Alpha version 2010 and 2015 estimates of numbers of people per grid square, with national totals adjusted to match UN   > population division estimates (http://esa.un.org/wpp/) and remaining unadjusted. 
 
 and used the QGIS plug-in [zonal statistics](http://docs.qgis.org/2.2/en/docs/user_manual/plugins/plugins_zonal_statistics.html) to aggregate populations to the district level.
 
