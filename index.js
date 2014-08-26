@@ -1,5 +1,5 @@
 var map = L.mapbox.map('map','ndi.map-hio7h1na,drewbo19.al4pwrk9');
-var map2 = L.mapbox.map('dots','ndi.map-hio7h1na,drewbo19.ix8q6w29');
+var map2 = L.mapbox.map('dots','ndi.map-hio7h1na,drewbo19.42oz85mi');
 
 var margin = {top: 20, right: 30, bottom: 50, left: 40},
     width = 760 - margin.left - margin.right,
